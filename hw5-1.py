@@ -21,3 +21,8 @@ print(random.choice(['cat', 'dog', 'sheep', 'cow', 'chicken', 'pig']))
 
 # Question 7
 print(random.choices([1, 2, 3, 4, 5, 6, 7, 8, 9, 10], k=4))
+
+# Question 8
+print(random.sample([1, 2, 3, 4, 5], 5))
+
+# Question 9
