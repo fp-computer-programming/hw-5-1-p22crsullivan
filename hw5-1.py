@@ -32,3 +32,4 @@ print(shuffled_cards)
 
 # Question 10
 random.seed(1942)
+print(random.randint(1, 1001))
